@@ -119,6 +119,7 @@ nav {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  cursor:default;
 }
 .options p:hover {
   color: #ec8b15;
@@ -854,5 +855,6 @@ footer {
     color: white;
   }
 }
+
 
 
