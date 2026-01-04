@@ -78,6 +78,7 @@ nav {
   font-family: Segoe UI;
   font-weight: 400;
   font-size: larger;
+  cursor:default;
 }
 .logo {
   height: 100%;
@@ -853,4 +854,5 @@ footer {
     color: white;
   }
 }
+
 
