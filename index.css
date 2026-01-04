@@ -445,6 +445,7 @@ nav {
 }
 
 .page6 {
+  display:none;
   height: 100%;
   width: 100%;
   background-color: #9ac1cb;
@@ -852,3 +853,4 @@ footer {
     color: white;
   }
 }
+
